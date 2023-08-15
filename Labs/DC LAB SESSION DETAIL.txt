@@ -1,0 +1,16 @@
+DC LAB SESSION SCHEDULE
+
+LAB 1 25-10-22 original compensated on 13-12-22
+LAB 2 01-11-22 LAMPORT
+LAB 3 08-11-22 LAMPORT
+LAB 4 15-11-22 LAMPORT
+LAB 5 22-11-22 Edge Chasing Algo
+LAB 6 29-11-22 Crud Operation in VS
+LAB 7 06-12-22 original compensated on 20-12-22 To Study and Implement Dataset using DML Operation
+LAB 8 13-12-22 To Explore the functions of SQL Server utilities, creating  stored procedures in SQL server.
+LAB 9 20-12-22 Lab 5-6-7
+LAB 10 27-12-22 compensated on Lab 8-9
+LAB 11 03-01-23 Lab 10-11
+LAB 12 10-01-23 Lab 12-13
+LAB 13 17-01-23 Lab 14 & Final Workbook Submission 
+LAb 14 24-01-23 Revision 
